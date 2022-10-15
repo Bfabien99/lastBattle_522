@@ -9,4 +9,5 @@
     une partie administration, l'admin doit pouvoir au moins fait un CRUD  des utilisateurs
     la présence d'un espace chat où le client pourra échanger avec un agent de santé
     Ce n'est pas un site e-commerce, faites preuve de créativité..
-    le lien github et le lien d'hébergement sont obligatoire 
+    le lien github et le lien d'hébergement sont obligatoire
+
